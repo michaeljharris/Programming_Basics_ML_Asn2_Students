@@ -13,4 +13,5 @@ Some hints and notes:
     </ul>
 <li> Focus on inputs and outputs - you have both. What steps need to go in between? Making one step work at a time will eventually get you there. </li>
 <li> If you have one "step" at a time, ideally in its own function, you can test it even before you have the whole thing working. </li>
+<li> The input file can have an arbitrary number of columns of values - you should use however many are filled with data, and ignore the rest. </li>
 </ul>
