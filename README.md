@@ -4,6 +4,7 @@ Some hints and notes:
 <ul>
 <li> Tackle things in chunks: </li>
     <ul>
+    <li> Can you read in the data, and isolate what you care about? </li>
     <li> Can you make a child list that does nothing special, but inherits from the parent list and works? </li>
     <li> Can you use that to make the core functionality (prining until the threshold is met) work? </li>
     <li> Can you make the child list flexible? I.e. different lengths, types, etc. </li>
